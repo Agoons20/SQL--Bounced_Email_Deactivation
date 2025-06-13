@@ -16,4 +16,4 @@ My task was to develop a SQL script to identify and deactivate bounced email add
 **Automation**: Designed the script to run monthly, ensuring continuous database maintenance.
 
 ## Result
-The SQL script successfully identified and deactivated bounced emails while updating preferred email statuses, improving solicitation accuracy by ensuring reliable contact information. This enhanced fundraising campaign effectiveness and maintained a clean, efficient database, aligning with organizational goals for operational excellence.
+The SQL script successfully identified and deactivated bounced emails while updating preferred email statuses, improving solicitation accuracy by ensuring reliable contact information. This enhanced fundraising campaign effectiveness and maintained a 97% clean, efficient database, aligning with organizational goals for operational excellence.
